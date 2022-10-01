@@ -1,6 +1,6 @@
 # tf-gcp-org
 
-This repository aims to cerate Organization, Folder and Projects in Google Clod Platform using Terraform.
+This repository aims to create Organization, Folder and Projects in Google Clod Platform using Terraform.
 
 To use terraform:
 
@@ -10,7 +10,8 @@ To use terraform:
   ```
 
 * To initialize terraform
-  ``` terraform init
+  ``` 
+  terraform init
   ```
 
 * To create a terraform plan
